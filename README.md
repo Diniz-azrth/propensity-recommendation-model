@@ -1,7 +1,5 @@
 # 🤖 Sistema de Recomendação de Produtos — Olist E-Commerce
 
-> Avaliação N1 · Disciplina de Machine Learning · BCC · FMU 2026
-
 ---
 
 ## 📋 Descrição do Projeto
@@ -80,20 +78,3 @@ Tabelas utilizadas:
 | Algoritmo final | Random Forest (otimizado via GridSearchCV) |
 
 **Principal descoberta:** Preço e Valor do Frete são os fatores mais determinantes para a satisfação do cliente — um sistema de recomendação eficiente deve priorizar a relação preço/frete para o CEP do usuário.
-
----
-
-## 👥 Integrantes do Grupo
-
-| Nome | RA |
-|---|---|
-| _Gustavo Diniz Rodrigues_ | _2025102891_ |
-
----
-
-## 📅 Entrega
-
-- **Data limite:** 22/05/2026
-- **Formato:** GitHub + Google Colab
-- **Disciplina:** Machine Learning — FMU 2026
-
