@@ -1,6 +1,5 @@
 # 🤖 Sistema de Recomendação de Produtos — Olist E-Commerce
 
----
 
 ## 📋 Descrição do Projeto
 
